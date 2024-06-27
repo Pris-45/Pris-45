@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pris-45
 - 👀 I’m interested in data management, data analytics
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Github
 - 💞️ I’m looking to collaborate on Python projects for learning. 
 - 📫 How to reach me 
 - 😄 Pronouns: she/her
